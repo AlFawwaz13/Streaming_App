@@ -1,6 +1,6 @@
 # streaming_app
 
-multi server based streaming application
+open source streaming application ( I hope :') )
 
 ## Getting Started
 
